@@ -1,0 +1,17 @@
+Digital image processing and computer
+1.resolution
+
+true colour imgaes - as we se , same image is create 
+RGB is common color with the help of thesse colour we can create any type of image
+cmyk- cyan mageenta yellow black
+hsv - hue saturation varience
+BGR - blue green red
+yellow = red + green
+magenta = Red + blue
+cyan = green + blue
+
+Types : -
+1.Gray scale
+2.Binary
+
+
